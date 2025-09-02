@@ -82,6 +82,10 @@ circosplot_degs(
 **Outputs (in a new folder `path/to/TREATMENT_circosplot/`):**
 
 * `circos_up.tiff|jpeg|…`, `circos_down.tiff|jpeg|…` – Circos images for Up/Down
+
+![CircosPlot](man/figures/circos_agrupado.jpeg)
+*Figure 1. Circosplot with DEGS.*
+
 * `circos_up.csv`, `circos_down.csv` – minimal plotting tables (Chr, Inicio, Fin, log2FC)
 * `circos_up_source.csv`, `circos_down_source.csv` – joined source tables for audit
 
